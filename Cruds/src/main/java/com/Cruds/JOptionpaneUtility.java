@@ -1,4 +1,4 @@
-//@autor Jose Manuel Almagro Dominguez
+
 package com.Cruds;
 
 import javax.swing.JOptionPane;
